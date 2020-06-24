@@ -1,5 +1,11 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h4>we are seeking for customer satisfaction</h4>
   </div>
 </template>
+<style>
+.about{
+  font-size:30px;
+  font-family:sofia;
+}
+</style>

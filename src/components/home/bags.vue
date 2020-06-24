@@ -1,10 +1,15 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> 
-      <router-link to="/about">About</router-link>
-    </div>
-    <router-view/>
+   <img src="bag1.jpg"/>
+    <img src="bag2.jpg"/>
+     <img src="bag3.jpg"/>
+      <img src="bag4.jpg"/>
+       <img src="bag5.jpg"/>
+        <img src="bag1.jpg"/>
+         <img src="bag2.jpg"/>
+          <img src="bag3.jpg"/>
+         <img src="bag4.jpg"/>
+          <img src="bag5.jpg"/>
   </div>
 </template>
 
